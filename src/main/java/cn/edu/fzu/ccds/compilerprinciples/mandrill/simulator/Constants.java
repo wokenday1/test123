@@ -1,7 +1,7 @@
 package cn.edu.fzu.ccds.compilerprinciples.mandrill.simulator;
 
 public class Constants {
-    //1
+    //123
     public static final int EVAL_ADD = 0x00010001;
     public static final int EVAL_MINUS = 0x00010002;
     public static final int EVAL_MUL = 0x00010003;
